@@ -1,0 +1,17 @@
+//species,spcs_ID,group,year,trt_class,trt.nme,grad_lin_val,grad_lin_SE,grad_lin_pval,grad_quad_val,grad_quad_SE,grad_quad_pval,diff_lin_val,diff_lin_SE,diff_lin_pval,diff_quad_val,diff_quad_SE,diff_quad_pval,subset_sex,subset_age,h2,authors
+0,Acrocephalus arundinaceus,1,B,1984-2010,MO,wing length,0.167,0.092,0.047,-0.134,0.134,0.137,0.184,0.085,0.019,-0.188,0.118,0.096,male,mature,0.529,Tarka et al.
+1,Acrocephalus arundinaceus,1,B,1984-2010,MO,tarsus length,0.184,0.089,0.025,0.062,0.148,0.804,0.199,0.089,0.016,0.061,0.139,0.539,male,mature,0.246,Tarka et al.
+2,Acrocephalus arundinaceus,1,B,1984-2010,MO,wing length,-0.133,0.061,0.027,-0.03,0.092,0.555,-0.119,0.058,0.034,-0.018,0.084,0.953,female,mature,0.548,Tarka et al.
+3,Acrocephalus arundinaceus,1,B,1984-2010,MO,tarsus length,0.028,0.06,0.623,0.006,0.086,0.995,0.006,0.06,0.921,0.017,0.085,0.84,female,mature,0.861,Tarka et al.
+4,Cyanistes caeruleus L.,14,B,1976-2002,MO,tarsus length,-0.001,0.077,>0.05,-0.031,0.042,>0.05,0.212,0.067,<0.01,-0.046,0.04,>0.05,both,immature,0.467,CharmantierRéale
+5,Cyanistes caeruleus L.,14,B,1976-2002,MO,body mass,0.419,0.077,<0.001,0.013,0.048,>0.05,0.421,0.065,<0.001,0.002,0.044,>0.05,both,immature,0.289,CharmantierRéale
+6,Falco tinnunculus,24,B,1995-2011,MO,body mass,0.074,0.025,0.004,-0.022,0.034,0.513,0.086,0.023,<0.001,-0.026,0.032,0.43,female,mature,0.533,Kim et al.
+7,Falco tinnunculus,24,B,1995-2011,MO,black-tail band,0.026,0.025,0.309,-0.024,0.036,0.513,0.028,0.024,0.234,-0.03,0.032,0.365,female,mature,0.67,Kim et al.
+8,Falco tinnunculus,24,B,1995-2011,MO,body mass,-0.003,0.025,0.915,0.002,0.032,0.936,0.006,0.024,0.795,-0.018,0.032,0.592,male,mature,0.56,Kim et al.
+9,Falco tinnunculus,24,B,1995-2011,MO,black-tail band,0.028,0.025,0.249,-0.078,0.034,0.02,0.029,0.024,0.226,-0.076,0.032,0.02,male,mature,0.829,Kim et al.
+10,Falco tinnunculus,24,B,1998-2012,MO,RG color,-0.776,0.76,0.308,-3.112,5.116,0.543,-0.828,0.766,0.28,-3.066,5.168,0.553,both,immature,0.799,Kim et al.
+11,Falco tinnunculus,24,B,2000-2009,MO,PHA response,0.329,0.203,0.104,0.172,0.232,0.461,0.36,0.2,0.072,0.158,0.24,0.508,both,immature,0.888,Kim et al.
+12,Falco tinnunculus,24,B,1995-2012,MO,body mass,0.266,0.165,0.108,-0.07,0.24,0.773,0.248,0.162,0.126,-0.118,0.234,0.613,both,immature,0.465,Kim et al.
+13,Falco tinnunculus,24,B,1998-2012,MO,RG color,-0.044,0.158,0.78,0.656,0.284,0.021,-0.029,0.157,0.855,0.594,0.272,0.029,both,immature,0.547,Kim et al.
+14,Impatiens capensis,34,P,1983,LH,seed weight,0.015,na,0.507,-0.007,na,0.999,0.13,na,na,na,na,na,both,mature,0.70448,Mitchell-Olds & Bergelson
+15,Impatiens capensis,34,P,1983,LH,germination date,-0.053,na,0.07,0.001,na,0.968,-0.36,na,na,na,na,na,both,mature,0.29648,Mitchell-Olds & Bergelson
